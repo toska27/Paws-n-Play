@@ -21,6 +21,12 @@
   margin-bottom: 5px;
   color: #101828;
 }
+.header_more h2 img {
+  width: 30px;
+  height: auto;
+  vertical-align: middle;
+  margin-right: 10px;
+}
 /* Section for more section */
 .section_more {
   max-height: 1016px;
