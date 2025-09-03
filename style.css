@@ -5,6 +5,11 @@
   font-family: "Formative Trial", sans-serif;
 }
 
+/*For all buttons*/
+button {
+  cursor: pointer;
+}
+
 /* Header for more section */
 .header_more {
   height: auto;
@@ -27,6 +32,7 @@
   vertical-align: middle;
   margin-right: 10px;
 }
+
 /* Section for more section */
 .section_more {
   max-height: 1016px;
@@ -36,6 +42,7 @@
   align-items: center;
   justify-content: center;
 }
+
 /* Container for more section */
 .container_more {
   width: 100%;
@@ -109,6 +116,9 @@ header {
   font-size: 16px;
   font-weight: 600;
   color: #101828;
+}
+.btn_header:hover {
+  background-color: #ffffffba;
 }
 .menu-toggle {
   font-size: 28px;
